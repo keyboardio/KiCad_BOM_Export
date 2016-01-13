@@ -80,7 +80,7 @@ tagValue = 'value'
 tagFootprint = 'footprint'
 tagFields = 'fields'
 
-fldMfgPartNo = 'Mfg_Part_No'
+fldMfgPartNo = 'MPN'
 
 #If we use an online pricing service (FindChips)
 pricingService = ''   #The online Pricing service we're using (F = FindChips)
